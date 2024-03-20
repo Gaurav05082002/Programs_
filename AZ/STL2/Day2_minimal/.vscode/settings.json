@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.json": "javascript",
+        "utility": "cpp"
+    }
+}
